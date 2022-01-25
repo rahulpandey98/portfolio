@@ -1,0 +1,150 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Rahul Pandey. Fictional person for preview purposes. I'm working with newest modern frameworks like React Native & ReactJs. For any freelance work you may directly contact me on my Linkedin. Thank you 💀",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Sparca",
+        "startDate": "2021",
+        "description": "Sparca is an electronic application that provides you with many options related to your car spare parts, whether new or used parts.",
+        "images": [
+          "images/portfolio/sparca/sparca5.jpg",
+          "images/portfolio/sparca/sparca1.jpg",
+          "images/portfolio/sparca/sparca2.jpg",
+          "images/portfolio/sparca/sparca3.jpg"
+        ],
+        "url": "https://apps.apple.com/al/app/sparca/id1589947126",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Servii",
+        "startDate": "2021",
+        "description": "India's first Vehicle Management App for Gated Communities.",
+        "images": [
+          "images/portfolio/servii/1.png",
+          "images/portfolio/servii/2.png",
+          "images/portfolio/servii/3.png",
+          "images/portfolio/servii/4.png"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.servi",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Renew",
+        "startDate": "2021",
+        "description": "Dating app where you find your connections.",
+        "images": [
+          "images/portfolio/renew/1.png",
+          "images/portfolio/renew/2.png",
+          "images/portfolio/renew/3.png",
+          "images/portfolio/renew/4.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Automat",
+        "startDate": "2021",
+        "description": "Bluetooth app which able to read/write funtions of Nordic device.",
+        "images": [
+          "images/portfolio/automat/1.png",
+          "images/portfolio/automat/2.png",
+          "images/portfolio/automat/3.png",
+          "images/portfolio/automat/4.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Saffron Tech",
+        "title": "React Native Developer",
+        "years": "12.2021 - present",
+        "mainTech": [
+          "React Native"
+        ],
+        "technologies": [
+          "REST API",
+          "GraphQl",
+          "JavaScript",
+          "TypeScript",
+          "Payment gateways",
+          "AWS"
+        ]
+      },
+      {
+        "company": "Hashstudioz Technologies",
+        "title": "Software Developer",
+        "years": "01.2021 - 12.2021",
+        "mainTech": [
+          "React Native, ReactJs, Nodejs"
+        ],
+        "technologies": [
+          "REST API",
+          "GraphQl",
+          "JavaScript",
+          "TypeScript",
+          "Payment gateways",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Leewayhertz Private Limited",
+        "title": "Associate Software Developer",
+        "years": "10.2020 - 05.2021",
+        "mainTech": [
+          "React Js"
+        ],
+        "technologies": [
+          "ReactJs",
+          "JavaScript",
+          "AWS"
+        ]
+      }
+    
+    ]
+  }
